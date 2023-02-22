@@ -8,5 +8,8 @@ public class AtmApp {
         System.out.println("Giti öğrenmek çok kolay");
         System.out.println("hamza branchi yeni bir özellik ekledi");
 
+        //master
+        System.out.println("mster yeni özellik");
+
     }
 }
