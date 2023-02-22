@@ -11,5 +11,8 @@ public class AtmApp {
         //master
         System.out.println("mster yeni özellik");
 
+        //hmz3
+        System.out.println("nesibe branchi ir adım önde");
+
     }
 }
