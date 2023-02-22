@@ -14,5 +14,8 @@ public class AtmApp {
         //hmz3
         System.out.println("nesibe branchi ir adım önde");
 
+
+        System.out.println("bazı değişiklikler yaptım commitlemedim");
+
     }
 }
