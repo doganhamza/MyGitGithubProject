@@ -20,5 +20,7 @@ public class AtmApp {
 
         System.out.println("masterdayım");
 
+        System.out.println("yeni değişikler yaptım");
+
     }
 }
