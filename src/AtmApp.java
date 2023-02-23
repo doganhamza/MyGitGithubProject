@@ -17,5 +17,8 @@ public class AtmApp {
 
         System.out.println("bazı değişiklikler yaptım commitlemedim");
 
+
+        System.out.println("masterdayım");
+
     }
 }
